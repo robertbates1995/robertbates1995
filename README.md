@@ -1,6 +1,7 @@
-### Hey there I'm Bob 👋
-I recently graduated from PSU with a BS in Science and a minor in Computer Science and 
-I’m currently working on completing the IOS Developer career path certificate.
+### Hey there, I'm Robert Bates 👋
+I recently graduated from PSU with a BS in Science and a minor in Computer Science. 
+Currently, I’m completing the IOS Developer career path certificate on Codecademy while also looking for work as a developer.
+I would treasure working as part of a team in an environment where I can continue to learn/grow, and I look forward to working with yours!
 
 <!--
 **robertbates1995/robertbates1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
