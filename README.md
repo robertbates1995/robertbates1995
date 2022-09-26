@@ -1,4 +1,6 @@
 ### Hey there I'm Bob 👋
+I recently graduated from PSU with a BS in Science and a minor in Computer Science and 
+I’m currently working on completing the IOS Developer career path certificate.
 
 <!--
 **robertbates1995/robertbates1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
