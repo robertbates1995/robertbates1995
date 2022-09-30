@@ -3,7 +3,7 @@ I recently graduated from PSU with a BS in Science and a minor in Computer Scien
 Currently, I’m completing the IOS Developer career path certificate on Codecademy while also looking for work as a developer.
 I would treasure working as part of a team in an environment where I can continue to learn/grow, and I look forward to working with yours!
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbates1995&show_icons=true&hide_border=true&hide=stars,prs&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertbates1995&show_icons=true&hide_border=true&hide=stars,prs,commits&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbates1995&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
