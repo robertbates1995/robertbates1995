@@ -7,6 +7,8 @@ I would treasure working as part of a team in an environment where I can continu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertbates1995&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Codewars Badge](https://www.codewars.com/users/BobbyGG/badges/large)](https://www.codewars.com/users/BobbyGG)
+
 <!--
 **robertbates1995/robertbates1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
